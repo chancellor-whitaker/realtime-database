@@ -11,7 +11,7 @@ import "./index.css";
 import { initializeApp } from "firebase/app";
 import { StrictMode } from "react";
 
-import App from "./App.jsx";
+import App from "./App";
 // TODO: Add SDKs for Firebase products that you want to use
 // https://firebase.google.com/docs/web/setup#available-libraries
 
